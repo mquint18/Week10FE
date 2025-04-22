@@ -1,0 +1,17 @@
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightcoral;}
+
+    body {
+        margin: 2rem 5rem;
+    
+    }
+
+    .container {
+        text-align: center;
+    color:darkorchid;
+    text-shadow:2px 2px 2px rgb(136, 133, 135);
+    background-color: rgb(34, 229, 226);
+    border-radius: 1rem;
+    margin: 2rem 5rem;
+    }
